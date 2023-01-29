@@ -11,7 +11,7 @@ chart_data = pd.DataFrame(data)
 st.vega_lite_chart(chart_data, 
 {
   "title": {
-    "text": "Snow amount at Ruka",
+    "text": "Snow amount at Kuusamo, Kiutaköngas (Ruka)",
     "fontSize": "20",
     "color": "85A9C5"
   },
